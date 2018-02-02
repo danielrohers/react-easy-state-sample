@@ -1,0 +1,13 @@
+.Counter-value {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.Counter-action {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #5454ff;
+  color: #fff;
+  border: none;
+  font-size: 15px;
+}
